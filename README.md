@@ -91,8 +91,8 @@ As a simulated asset, this token integrates with testnet liquidity pools and moc
 ## Contact Us
 
 **Official Channels:**
-- Website: [www.tethersimulate.com](https://USDC.TetherSimulate.com/)
-- Email: [Support@TetherSimulate.com](mailto:Support@USDC.TetherSimulate.com)
+- Website: [www.USDC.TetherSimulate.com](https://USDC.TetherSimulate.com/)
+- Email: [Support@USDC.TetherSimulate.com](mailto:Support@USDC.TetherSimulate.com)
 - X (Twitter): [X.com/TetherSimulate](https://X.com/TetherSimulate)
 - Telegram: [t.me/TetherSimulate](https://t.me/TetherSimulate)
 
